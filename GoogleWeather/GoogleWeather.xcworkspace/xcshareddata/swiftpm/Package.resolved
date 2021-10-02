@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "WeatherCore",
+        "repositoryURL": "https://github.com/selvestro/WeatherCore",
+        "state": {
+          "branch": "main",
+          "revision": "50dc92ef69ca1fa13971d66df27c4e54c5600d7e",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

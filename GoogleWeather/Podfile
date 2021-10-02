@@ -1,0 +1,6 @@
+platform :ios, '13.0'
+
+source 'https://github.com/CocoaPods/Specs.git'
+target 'GoogleWeather' do
+  pod 'GoogleMaps', '5.1.0'
+end
